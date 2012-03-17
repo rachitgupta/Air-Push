@@ -1,0 +1,3 @@
+Air Push Drupal Module
+
+Objective: A centralised push notification machanism, consuming services like APNS, c2dm, BBPM, etc.
