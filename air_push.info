@@ -2,5 +2,6 @@
 name = Air Push
 description = REQUIRED. Provides the Push Notification Mechanism consuming services like  APNS, c2DM, BBPM, etc.
 package = Air Push - Core
+dependencies[] = services
 core = 6.x
 php = 5.x
