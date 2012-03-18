@@ -1,0 +1,11 @@
+<?php
+// $Id: air_push.info,v 0.1 2012/03/18 11:40:30 srahul07 Exp $
+
+/**
+ * @file
+ * Provides a mechanism to consume services like APNS, C2DM, BBPM, etc.
+ */
+
+
+
+?>

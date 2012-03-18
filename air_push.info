@@ -1,0 +1,6 @@
+; $Id: air_push.info,v 0.1 2012/03/18 11:40:30 srahul07 Exp $
+name = Air Push
+description = REQUIRED. Provides the Push Notification Mechanism consuming services like  APNS, c2DM, BBPM, etc.
+package = Air Push - Core
+core = 6.x
+php = 5.x

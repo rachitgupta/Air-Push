@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * Install hooks for air_push.module.
+ */
+
+/**
+ * Implements hook_schema().
+ */
+
+
+?>
